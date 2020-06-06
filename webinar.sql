@@ -4,7 +4,7 @@
  Source Server         : local
  Source Server Type    : MySQL
  Source Server Version : 100411
- Source Host           : localhost:3306
+ Source Host           : localhost:3306dd
  Source Schema         : webinar
 
  Target Server Type    : MySQL
