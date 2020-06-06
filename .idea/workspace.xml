@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96a8d807-ce8d-4aa2-ad37-5849c2df9610" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1cEJFwfJ1eEJbEHcdkPeUmW2k3T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/views/other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\webinar\application\views\other" />
+      <recent name="D:\xampp\htdocs\webinar\application\views\server" />
+      <recent name="D:\xampp\htdocs\webinar\application" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\webinar\application\views" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96a8d807-ce8d-4aa2-ad37-5849c2df9610" name="Default Changelist" comment="" />
+      <created>1590087718610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590087718610</updated>
+      <workItem from="1590087719789" duration="8252000" />
+      <workItem from="1590148769453" duration="1623000" />
+      <workItem from="1590158710742" duration="3593000" />
+      <workItem from="1590181248599" duration="2736000" />
+      <workItem from="1590191877424" duration="146000" />
+      <workItem from="1590233504747" duration="6468000" />
+      <workItem from="1590241534890" duration="5919000" />
+      <workItem from="1590265489426" duration="558000" />
+      <workItem from="1590353260223" duration="3304000" />
+      <workItem from="1590400297947" duration="32000" />
+      <workItem from="1590405910338" duration="428000" />
+      <workItem from="1590406379445" duration="154000" />
+      <workItem from="1590412345128" duration="7000" />
+      <workItem from="1590650018385" duration="656000" />
+      <workItem from="1590664597092" duration="3000" />
+      <workItem from="1590695794871" duration="5000" />
+      <workItem from="1590841192858" duration="3402000" />
+      <workItem from="1590930322128" duration="205000" />
+      <workItem from="1590930982335" duration="8000" />
+      <workItem from="1591002841395" duration="763000" />
+      <workItem from="1591036640527" duration="5000" />
+      <workItem from="1591270381753" duration="1295000" />
+      <workItem from="1591283530924" duration="307000" />
+      <workItem from="1591287112582" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="148" key="#Live_Templates" timestamp="1590233989783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="191" y="148" key="#Live_Templates/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1590233989783" />
+    <state x="751" y="335" key="NewPhpClassDialog" timestamp="1590237620937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="335" key="NewPhpClassDialog/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1590237620937" />
+    <state x="751" y="335" key="NewPhpClassDialog/0.0.1920.1040/-900.40.900.1400@0.0.1920.1040" timestamp="1590149460426" />
+    <state x="794" y="444" key="NewPhpFileDialog" timestamp="1591002996750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="444" key="NewPhpFileDialog/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1591002996750" />
+    <state x="794" y="444" key="NewPhpFileDialog/0.0.1920.1040/-900.40.900.1400@0.0.1920.1040" timestamp="1590149531090" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1591287114342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1440.0.1440.860/1920.0.1280.680@0.0.1920.1040" timestamp="1591287114342" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1591283530845" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-900.40.900.1400@0.0.1920.1040" timestamp="1590158730821" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590253087472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1590253087472" />
+  </component>
+</project>
